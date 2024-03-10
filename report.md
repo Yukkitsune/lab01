@@ -67,8 +67,9 @@
    ./b2 install -j 12
    ```
    [Boost install](https://raw.githubusercontent.com/Yukkitsune/lab01/master/task_8.txt)
-9. $ cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
-   ![image](https://github.com/Yukkitsune/lab01/assets/29312710/46aaa008-0980-4d7c-9c94-7e23bab8d8f8)
+9. ```bash
+   cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
+   ```
 10. $ ls -lh  41Mb
     ![image](https://github.com/Yukkitsune/lab01/assets/29312710/17103682-32fc-4f4e-9af6-636aed1e4804)
 11. $ ls -lS | head -n 11
