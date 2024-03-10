@@ -82,15 +82,11 @@
 9. ```bash
    cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
    ```
-10. $ ls -lh  41Mb
-    ![image](https://github.com/Yukkitsune/lab01/assets/29312710/17103682-32fc-4f4e-9af6-636aed1e4804)
-11. $ ls -lS | head -n 11
-    ![image](https://github.com/Yukkitsune/lab01/assets/29312710/d4aa4d7a-6a5c-4edc-9f76-d66870cabed1)
-
-    
-     
-
-   
-
-   
-
+10. ```bash
+    ls -lh
+    ```
+    [Hard disk space](https://github.com/Yukkitsune/lab01/blob/master/task_10.txt)
+11. ```bash
+    ls -lS | head -n 11
+    ```
+    [Top 10 heaviest files](https://github.com/Yukkitsune/lab01/blob/master/task_11.txt)
