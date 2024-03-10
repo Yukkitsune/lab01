@@ -20,30 +20,42 @@
    ```  
 3. ```bash
    find . -maxdepth 1 -type f | wc -l
+   ```
+   ```bash
    13
    ```
 4. ```bash
    find . -type f | wc -l
+   ```
+   ```bash
    76801
    ```
 5.
    - Заголовочные файлы
      ```bash
      find . -type f -name "*.hpp" -o -name "*.h" | wc -l
+     ```
+     ```bash
      17487
      ```
    - Файлы .cpp
      ```bash
      find . -type f -name "*.cpp" | wc -l
+     ```
+     ```bash
      17337
      ```
    - Остальные файлы
      ```bash
      find . -type f -not -name "*.hpp" -not -name "*.h" -not -name "*.cpp"  | wc -l
+     ```
+     ```bash
      41977
      ```
 6. ```bash
    find boost/ -name any.hpp
+   ```
+   ```bash
    boost/geometry/geometries/adapted/detail/any.hpp
    boost/xpressive/detail/utility/any.hpp
    boost/type_erasure/any.hpp
