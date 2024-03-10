@@ -1,0 +1,11 @@
+итого 41352
+-rw-r--r--. 1 kitsune kitsune 4572276 мар  3 18:12 libboost_wave.a
+-rw-r--r--. 1 kitsune kitsune 3200126 мар  3 18:12 libboost_log.a
+-rw-r--r--. 1 kitsune kitsune 2851764 мар  3 18:12 libboost_log_setup.a
+-rw-r--r--. 1 kitsune kitsune 2304202 мар  3 18:12 libboost_url.a
+-rw-r--r--. 1 kitsune kitsune 2206088 мар  3 18:11 libboost_test_exec_monitor.a
+-rw-r--r--. 1 kitsune kitsune 2189218 мар  3 18:12 libboost_unit_test_framework.a
+-rw-r--r--. 1 kitsune kitsune 1739876 мар  3 18:11 libboost_locale.a
+-rwxr-xr-x. 1 kitsune kitsune 1577984 мар  3 18:12 libboost_wave.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 1406016 мар  3 18:11 libboost_log_setup.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 1220176 мар  3 18:11 libboost_log.so.1.84.0

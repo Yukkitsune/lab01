@@ -1,0 +1,120 @@
+итого 41M
+drwxr-xr-x. 1 kitsune kitsune 2,0K мар  3 18:12 cmake
+drwxr-xr-x. 1 kitsune kitsune 5,3K мар 10 13:13 lib
+-rw-r--r--. 1 kitsune kitsune  14K мар  3 18:11 libboost_atomic.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:12 libboost_atomic.so -> libboost_atomic.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  23K мар  3 18:12 libboost_atomic.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 147K мар  3 18:11 libboost_chrono.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:12 libboost_chrono.so -> libboost_chrono.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  45K мар  3 18:12 libboost_chrono.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 159K мар  3 18:11 libboost_container.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:10 libboost_container.so -> libboost_container.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 106K мар  3 18:10 libboost_container.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 7,2K мар  3 18:11 libboost_context.a
+lrwxrwxrwx. 1 kitsune kitsune   26 мар  3 18:10 libboost_context.so -> libboost_context.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  17K мар  3 18:10 libboost_context.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 253K мар  3 18:11 libboost_contract.a
+lrwxrwxrwx. 1 kitsune kitsune   27 мар  3 18:10 libboost_contract.so -> libboost_contract.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 136K мар  3 18:10 libboost_contract.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  31K мар  3 18:11 libboost_coroutine.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:10 libboost_coroutine.so -> libboost_coroutine.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  25K мар  3 18:10 libboost_coroutine.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,5K мар  3 18:11 libboost_date_time.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:10 libboost_date_time.so -> libboost_date_time.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  16K мар  3 18:10 libboost_date_time.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,7K мар  3 18:10 libboost_exception.a
+-rw-r--r--. 1 kitsune kitsune 232K мар  3 18:11 libboost_fiber.a
+lrwxrwxrwx. 1 kitsune kitsune   24 мар  3 18:10 libboost_fiber.so -> libboost_fiber.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 103K мар  3 18:10 libboost_fiber.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 390K мар  3 18:11 libboost_filesystem.a
+lrwxrwxrwx. 1 kitsune kitsune   29 мар  3 18:10 libboost_filesystem.so -> libboost_filesystem.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 185K мар  3 18:10 libboost_filesystem.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 947K мар  3 18:12 libboost_graph.a
+lrwxrwxrwx. 1 kitsune kitsune   24 мар  3 18:11 libboost_graph.so -> libboost_graph.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 477K мар  3 18:11 libboost_graph.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 234K мар  3 18:11 libboost_iostreams.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:10 libboost_iostreams.so -> libboost_iostreams.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 123K мар  3 18:10 libboost_iostreams.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 718K мар  3 18:11 libboost_json.a
+lrwxrwxrwx. 1 kitsune kitsune   23 мар  3 18:11 libboost_json.so -> libboost_json.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 442K мар  3 18:11 libboost_json.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,7M мар  3 18:11 libboost_locale.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:10 libboost_locale.so -> libboost_locale.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 739K мар  3 18:10 libboost_locale.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 3,1M мар  3 18:12 libboost_log.a
+-rw-r--r--. 1 kitsune kitsune 2,8M мар  3 18:12 libboost_log_setup.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:11 libboost_log_setup.so -> libboost_log_setup.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 1,4M мар  3 18:11 libboost_log_setup.so.1.84.0
+lrwxrwxrwx. 1 kitsune kitsune   22 мар  3 18:11 libboost_log.so -> libboost_log.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 1,2M мар  3 18:11 libboost_log.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 150K мар  3 18:12 libboost_math_c99.a
+-rw-r--r--. 1 kitsune kitsune 132K мар  3 18:12 libboost_math_c99f.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:11 libboost_math_c99f.so -> libboost_math_c99f.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  53K мар  3 18:11 libboost_math_c99f.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 129K мар  3 18:12 libboost_math_c99l.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:11 libboost_math_c99l.so -> libboost_math_c99l.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  52K мар  3 18:11 libboost_math_c99l.so.1.84.0
+lrwxrwxrwx. 1 kitsune kitsune   27 мар  3 18:11 libboost_math_c99.so -> libboost_math_c99.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  58K мар  3 18:11 libboost_math_c99.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 998K мар  3 18:12 libboost_math_tr1.a
+-rw-r--r--. 1 kitsune kitsune 968K мар  3 18:12 libboost_math_tr1f.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:11 libboost_math_tr1f.so -> libboost_math_tr1f.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 385K мар  3 18:11 libboost_math_tr1f.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 971K мар  3 18:12 libboost_math_tr1l.a
+lrwxrwxrwx. 1 kitsune kitsune   28 мар  3 18:11 libboost_math_tr1l.so -> libboost_math_tr1l.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 388K мар  3 18:11 libboost_math_tr1l.so.1.84.0
+lrwxrwxrwx. 1 kitsune kitsune   27 мар  3 18:11 libboost_math_tr1.so -> libboost_math_tr1.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 397K мар  3 18:11 libboost_math_tr1.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  22K мар  3 18:12 libboost_nowide.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:11 libboost_nowide.so -> libboost_nowide.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  24K мар  3 18:11 libboost_nowide.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 158K мар  3 18:12 libboost_prg_exec_monitor.a
+lrwxrwxrwx. 1 kitsune kitsune   35 мар  3 18:11 libboost_prg_exec_monitor.so -> libboost_prg_exec_monitor.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  97K мар  3 18:11 libboost_prg_exec_monitor.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,1M мар  3 18:12 libboost_program_options.a
+lrwxrwxrwx. 1 kitsune kitsune   34 мар  3 18:11 libboost_program_options.so -> libboost_program_options.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 520K мар  3 18:11 libboost_program_options.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  51K мар  3 18:12 libboost_random.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:11 libboost_random.so -> libboost_random.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  44K мар  3 18:11 libboost_random.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 716K мар  3 18:11 libboost_regex.a
+lrwxrwxrwx. 1 kitsune kitsune   24 мар  3 18:10 libboost_regex.so -> libboost_regex.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 377K мар  3 18:10 libboost_regex.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,2M мар  3 18:12 libboost_serialization.a
+lrwxrwxrwx. 1 kitsune kitsune   32 мар  3 18:11 libboost_serialization.so -> libboost_serialization.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 468K мар  3 18:11 libboost_serialization.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  44K мар  3 18:12 libboost_stacktrace_addr2line.a
+lrwxrwxrwx. 1 kitsune kitsune   39 мар  3 18:11 libboost_stacktrace_addr2line.so -> libboost_stacktrace_addr2line.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  52K мар  3 18:11 libboost_stacktrace_addr2line.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  13K мар  3 18:12 libboost_stacktrace_basic.a
+lrwxrwxrwx. 1 kitsune kitsune   35 мар  3 18:11 libboost_stacktrace_basic.so -> libboost_stacktrace_basic.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  23K мар  3 18:11 libboost_stacktrace_basic.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 2,8K мар  3 18:12 libboost_stacktrace_noop.a
+lrwxrwxrwx. 1 kitsune kitsune   34 мар  3 18:11 libboost_stacktrace_noop.so -> libboost_stacktrace_noop.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  16K мар  3 18:11 libboost_stacktrace_noop.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 1,5K мар  3 18:12 libboost_system.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:11 libboost_system.so -> libboost_system.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  16K мар  3 18:11 libboost_system.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 2,2M мар  3 18:11 libboost_test_exec_monitor.a
+-rw-r--r--. 1 kitsune kitsune 281K мар  3 18:11 libboost_thread.a
+lrwxrwxrwx. 1 kitsune kitsune   25 мар  3 18:10 libboost_thread.so -> libboost_thread.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 153K мар  3 18:10 libboost_thread.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune  21K мар  3 18:12 libboost_timer.a
+lrwxrwxrwx. 1 kitsune kitsune   24 мар  3 18:11 libboost_timer.so -> libboost_timer.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  29K мар  3 18:11 libboost_timer.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 107K мар  3 18:12 libboost_type_erasure.a
+lrwxrwxrwx. 1 kitsune kitsune   31 мар  3 18:11 libboost_type_erasure.so -> libboost_type_erasure.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune  71K мар  3 18:11 libboost_type_erasure.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 2,1M мар  3 18:12 libboost_unit_test_framework.a
+lrwxrwxrwx. 1 kitsune kitsune   38 мар  3 18:11 libboost_unit_test_framework.so -> libboost_unit_test_framework.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 931K мар  3 18:11 libboost_unit_test_framework.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 2,2M мар  3 18:12 libboost_url.a
+lrwxrwxrwx. 1 kitsune kitsune   22 мар  3 18:11 libboost_url.so -> libboost_url.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 458K мар  3 18:11 libboost_url.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 4,4M мар  3 18:12 libboost_wave.a
+lrwxrwxrwx. 1 kitsune kitsune   23 мар  3 18:12 libboost_wave.so -> libboost_wave.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 1,6M мар  3 18:12 libboost_wave.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune 777K мар  3 18:12 libboost_wserialization.a
+lrwxrwxrwx. 1 kitsune kitsune   33 мар  3 18:11 libboost_wserialization.so -> libboost_wserialization.so.1.84.0
+-rwxr-xr-x. 1 kitsune kitsune 327K мар  3 18:11 libboost_wserialization.so.1.84.0
+-rw-r--r--. 1 kitsune kitsune    0 мар 10 20:15 task_10.txt
