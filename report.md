@@ -60,12 +60,12 @@
    grep -ril "boost::asio"
    ```
    [Boost::asio](https://github.com/Yukkitsune/lab01/blob/master/task_7.txt)
-8.```bash
-  ./bootstrap.sh --prefix=boost_output --with-python=python3
-  ```
-  ```bash
-  ./b2 install -j 12
-  ```
+8. ```bash
+   ./bootstrap.sh --prefix=boost_output --with-python=python3
+   ```
+   ```bash
+   ./b2 install -j 12
+   ```
    [Boost install](https://raw.githubusercontent.com/Yukkitsune/lab01/master/task_8.txt)
 9. $ cd boost_output &&  mv ./lib ~/boost-libs && cd ~/boost-libs
    ![image](https://github.com/Yukkitsune/lab01/assets/29312710/46aaa008-0980-4d7c-9c94-7e23bab8d8f8)
