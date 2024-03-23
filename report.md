@@ -15,6 +15,7 @@
 1. ```bash
    wget https://sourceforge.net/projects/boost/files/boost/1.84.0/boost_1_84_0.tar.gz
    ```
+   [wget Boost_1_84_0](https://github.com/Yukkitsune/lab01/blob/master/task_1.txt)
 2. ```bash
    tar -xvf boost_1_84_0.tar.gz
    ```  
